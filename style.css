@@ -1,0 +1,26 @@
+.big-container {
+    /* border: 5px solid blue; */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 10%;
+    background-color: pink;
+}
+
+.container {
+    align-items: center;
+    /* padding-left: 20%; */
+    /* border: 5px solid red; */
+    display: flex;
+    flex-direction: column;
+}
+
+.text-output {
+    border: 5px solid white;
+    height: 40px;
+    width: 20rem;
+    color: black;
+}
